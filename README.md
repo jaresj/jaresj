@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Justice Jares</h1>
-<h3 align="center">A passionate frontend developer from Portland</h3>
+<h3 align="center">A passionate Software Engineer from Portland</h3>
 
 - 🔭 I’m currently working on [DnD Campaign Helper](https://github.com/jaresj/dnd-campaign-helper)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **justice.jares@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1cwWLeXedQvedP18MKAIQxxbE26kxUsL1/edit?usp=sharing&ouid=111946647683266075601&rtpof=true&sd=true](https://docs.google.com/document/d/1cwWLeXedQvedP18MKAIQxxbE26kxUsL1/edit?usp=sharing&ouid=111946647683266075601&rtpof=true&sd=true)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1cwWLeXedQvedP18MKAIQxxbE26kxUsL1/edit?usp=sharing&ouid=111946647683266075601&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
