@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Justice Jares</h1>
 <h3 align="center">A passionate Software Engineer from Portland</h3>
 
-- 🔭 I’m currently working on [DnD Campaign Helper](https://github.com/jaresj/dnd-campaign-helper)
+- 🔭 I’m currently working on [Popcorn Movie Review](https://github.com/jaresj/popcorn-movie-review)
 
 - 🌱 I’m currently learning **Node.js** and **MongoDB**
 
