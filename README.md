@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [DnD Campaign Helper](https://github.com/jaresj/dnd-campaign-helper)
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Node.js** and **MongoDB**
 
-- 🤝 I’m looking for help with **Lower 40 Casino Virtual Blackjack**
+- 🤝 I’m looking for help with **Popcorn Movie Review Application**
 
 - 👨‍💻 All of my projects are available at [https://justicejares.netlify.app/](https://justicejares.netlify.app/)
 
