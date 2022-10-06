@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Popcorn Movie Review](https://github.com/jaresj/popcorn-movie-review)
 
-- 🌱 I’m currently learning **Node.js** and **MongoDB**
+- 🌱 I’m currently learning **Node.js**, **MongoDB**, and **React**
 
 - 🤝 I’m looking for help with **Popcorn Movie Review Application**
 
